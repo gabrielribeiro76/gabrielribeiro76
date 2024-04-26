@@ -2,6 +2,7 @@
 
 - 🌱 Estudando React.js / React Native
 - 🌱 Estudando CSS / Tailwind CSS
+- 🌱 Estudando C#
 - 📫 Contate-me no email: gabrielsilvaribeirocontato@gmail.com
 - 😄 Pronouns: ele/dele
 ##
