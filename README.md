@@ -1,16 +1,6 @@
 ### Olá! Eu sou o Gabriel Ribeiro 👋
-
-- 🌱 Estudando React.js / React Native
-- 🌱 Estudando CSS / Tailwind CSS
-- 🌱 Estudando C#
 - 📫 Contate-me no email: gabrielsilvaribeirocontato@gmail.com
-- 😄 Pronouns: ele/dele
 ##
-<div>
-  <a href="https://beacons.ai/gabrielribeiro76">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielribeiro76&show_icons=true&theme=gruvbox_light&layout=compact"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribeiro76&theme=gruvbox_light&layout=compact"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img alignt="center" alt="Rib-txt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
