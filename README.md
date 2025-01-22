@@ -3,10 +3,12 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img alignt="center" alt="Rib-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img alignt="center" alt="Rib-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img alignt="center" alt="Rib-excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000](https://icons8.com.br/icon/117561/microsoft-excel-2019" />
-  <img alignt="center" alt="Rib-BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+  <img alignt="center" alt="Rib-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alignt="center" alt="Rib-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alignt="center" alt="Rib-codeiginiter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+  <img alignt="center" alt="Rib-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alignt="center" alt="Rib-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img alignt="center" alt="Rib-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 ##
